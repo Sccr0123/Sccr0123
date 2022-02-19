@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Zach Thomas
+- 👋 Hi, I’m Zach Thomas.
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning Full-Stack Web Development.
 - 💞️ I’m looking to collaborate on any projects.
