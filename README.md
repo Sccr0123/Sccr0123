@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Zach Thomas.
-- 👀 I’m interested in ...
+- 👀 I’m interested in Web Development And React.
 - 🌱 I’m currently learning Full-Stack Web Development.
 - 💞️ I’m looking to collaborate on any projects.
 - 📫 How to reach me: sccr0123@gmail.com.
