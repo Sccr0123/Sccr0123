@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Zach Thomas.
 - 👀 I’m interested in React Web Development and AWS CDK backend projects.
-- 🌱 I’m currently employed as a Software Developer managing Full-Stack Web Development and AWS CDK.
+- 🌱 I’m currently employed as an Application Developer managing Full-Stack Web Development and AWS CDK.
 - 💞️ I’m looking to collaborate on any projects.
 - 📫 How to reach me: zach@zachthomas.dev.
 
